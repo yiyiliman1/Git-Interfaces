@@ -1,2 +1,9 @@
 1. Introducción
 La página web de Taekwondo tiene como objetivo centralizar recursos educativos, eventos y seguimiento del progreso de los practicantes. Ofrecerá una plataforma interactiva dirigida a estudiantes, entrenadores y aficionados, con herramientas que faciliten el aprendizaje y la organización de la práctica.
+
+2. Objetivo
+Desarrollar una página web que permita a los usuarios:
+
+Aprender técnicas de taekwondo a través de contenido visual y educativo.
+Consultar y participar en eventos como torneos, clases y seminarios.
+Seguir su progreso personal en taekwondo, registrando logros y niveles de cinturón.
