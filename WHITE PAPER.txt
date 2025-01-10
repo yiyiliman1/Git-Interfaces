@@ -7,3 +7,9 @@ Desarrollar una página web que permita a los usuarios:
 Aprender técnicas de taekwondo a través de contenido visual y educativo.
 Consultar y participar en eventos como torneos, clases y seminarios.
 Seguir su progreso personal en taekwondo, registrando logros y niveles de cinturón.
+
+3. Funcionalidades Principales
+Técnicas de Taekwondo: Descripción detallada de técnicas, con imágenes y videos.
+Calendario de Eventos: Información actualizada sobre torneos, competiciones y clases.
+Seguimiento del Progreso: Registro de nivel de cinturón y progreso personal con gráficos de logros.
+Comunidad: Foro de discusión para compartir experiencias, consejos y recursos.
